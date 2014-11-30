@@ -1,4 +1,4 @@
 GrailsStarterTestSuite
 ======================
 
-GRAILS complete starter test suite: GRAILS / Angularjs / MongoDB
+GRAILS complete starter test suite: GRAILS / Angularjs
